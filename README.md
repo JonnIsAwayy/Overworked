@@ -38,4 +38,6 @@ In this game, players step into the shoes of a new employee at Globodyne, tasked
 
 ---
 
-*Part of BGDJam 2026.*
+*Part of BGDJam 2026. Developed by Sleep Deprivation Studio.*
+
+© 2026 Sleep Deprivation Studio. All rights reserved.
