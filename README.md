@@ -1,6 +1,6 @@
 # OVERWORKED
 
-**OVERWORKED** is an immersive "Email & Work Simulator" developed in Unity 6, specifically built for **BGDJam 2026**. 
+**OVERWORKED** is an immersive "Email & Work Simulator" developed in Unity 6 by **Sleep Deprivation Studio**, specifically built for **BGDJam 2026**. 
 
 In this game, players step into the shoes of a new employee at Globodyne, tasked with managing a never-ending influx of emails, completing urgent tasks, and navigating office politics through dynamic dialogues.
 
