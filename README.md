@@ -6,7 +6,7 @@ In this game, players step into the shoes of a new employee at Globodyne, tasked
 
 ---
 
-## 🚀 Core Features
+## Core Features
 
 - **Email Management Engine**: A robust system for categorizing, replying to, and completing tasks from an overflowing inbox.
 - **Story Mode**: A 7-day narrative challenge where your decisions and efficiency impact your progression.
@@ -15,7 +15,7 @@ In this game, players step into the shoes of a new employee at Globodyne, tasked
 - **Interactive Dialogues**: Branching narrative sequences with character avatars and custom name injection.
 - **Task System**: Integrated minigames and timers for high-pressure work tasks.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Unity Version**: 6000.3.11f1 (URP 2D)
 - **UI Framework**: UI Toolkit (UXML/USS) - Modern, CSS-like UI styling.
@@ -23,14 +23,14 @@ In this game, players step into the shoes of a new employee at Globodyne, tasked
 - **Data Driven**: All emails, story beats, and configurations are handled via JSON for easy modding and expansion.
 - **Persistence**: Custom binary serialization for fast and reliable cross-version save data.
 
-## 📂 Project Structure
+## Project Structure
 
 - `Assets/Scripts`: The brain of the game, divided into `Core`, `Email`, `Story`, and `UI`.
 - `Assets/Resources/Data`: The JSON-driven heart of the game (Emails, Story, Config).
 - `Assets/UI`: UXML layouts and USS stylesheets.
 - `Assets/Scenes`: The main game loops and menu scenes.
 
-## 🎮 Getting Started
+## Getting Started
 
 1. Open the project in **Unity 6**.
 2. Navigate to `Assets/Scenes` and open `SampleScene`.
